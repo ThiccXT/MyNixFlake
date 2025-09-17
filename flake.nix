@@ -4,8 +4,7 @@
   inputs = {
     # Pin to NixOS 25.05 stable
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.05";
-    nix-ai.url = "github:olafkfreund/nix-ai-help";
-    
+        
     # Alternative: Use unstable for latest packages
     # nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
   };
